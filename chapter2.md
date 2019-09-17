@@ -1,7 +1,7 @@
 # the voices
 
-## i am evil
+### i am evil
 ### who? who are you?
-## evil!!!!!!!
+### evil!!!!!!!
 ### your name is evil?
-## in name, in practice, and in fact, i am evil.
+### in name, in practice, and in fact, i am evil.
